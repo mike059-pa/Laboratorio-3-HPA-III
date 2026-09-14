@@ -33,17 +33,18 @@ Los proyectos desarrollados son:
 ### 1. Caso de Estudio: DataGridView
 
 Este programa utiliza una interfaz desarrollada con Windows Forms para trabajar con información organizada mediante el control `DataGridView`.
-
 Entre los elementos utilizados se encuentran `DataGridView`, `ErrorProvider`, `ToolStrip` y `DateTimePicker`. También se implementaron conceptos como clases, métodos estáticos, `ArrayList` y validaciones de datos.
 El `DataGridView` permite mostrar y editar información organizada en filas y columnas, facilitando la interacción del usuario con los datos.
 
 #### Interfaz Principal
 
-<!-- Colocar aquí la captura de pantalla de la interfaz principal -->
+<img width="847" height="517" alt="image" src="https://github.com/user-attachments/assets/774898b4-11f8-4a22-88d9-df3d81ae95f8" />
 
 #### Funcionamiento
+<img width="847" height="512" alt="image" src="https://github.com/user-attachments/assets/017b4942-6b89-4480-b31d-31cd9768536b" />
 
-<!-- Colocar aquí una captura adicional del funcionamiento del programa -->
+<img width="860" height="522" alt="image" src="https://github.com/user-attachments/assets/bbcd9a12-98b0-49df-b113-ebff78c68a6f" />
+
 
 ---
 
