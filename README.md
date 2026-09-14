@@ -63,12 +63,7 @@ En este caso de estudio se aplicaron diferentes conceptos de programación, entr
 El programa utiliza una clase `Craps` y un método para realizar las tiradas de los dados. También se utiliza una enumeración para representar los valores relacionados con los dados.
 
 #### Interfaz / Ejecución del Juego
-
-<!-- Colocar aquí la captura de pantalla del juego -->
-
-#### Resultado de una partida
-
-<!-- Colocar aquí una captura mostrando el resultado de una partida -->
+<img width="1457" height="412" alt="image" src="https://github.com/user-attachments/assets/52e5bb25-073c-4389-b78b-89acc6ab83d3" />
 
 ---
 
@@ -82,17 +77,18 @@ La implementación permite organizar las diferentes funcionalidades del programa
 
 #### Ventana Principal MDI
 
-<!-- Colocar aquí la captura de pantalla de la ventana principal -->
+<img width="747" height="476" alt="image" src="https://github.com/user-attachments/assets/1d914e13-8876-4b8d-8577-c552c250418d" />
+
 
 #### Formularios Secundarios
 
-<!-- Colocar aquí la captura de los formularios secundarios -->
+<img width="572" height="416" alt="image" src="https://github.com/user-attachments/assets/a3eeef70-759c-4424-ac99-8e6ec6b3dcbf" />
+
 
 #### Funcionamiento del MDI
 
-<!-- Colocar aquí una captura mostrando uno de los formularios abierto dentro del formulario principal -->
+<img width="750" height="490" alt="image" src="https://github.com/user-attachments/assets/2a12c058-87b5-432d-a30e-d81974dea3ba" />
 
----
 
 ## Estructura de Carpetas o Directorios
 
@@ -117,14 +113,7 @@ HPA-III-Laboratorio/
 │   ├── Form2.cs
 │   └── ...
 │
-├── capturas/
-│   ├── datagridview-principal.png
-│   ├── datagridview-funcionamiento.png
-│   ├── craps.png
-│   ├── craps-resultado.png
-│   ├── mdi-principal.png
-│   ├── mdi-formularios.png
-│   └── mdi-funcionamiento.png
+
 │
 └── README.md
 ```
